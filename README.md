@@ -10,4 +10,4 @@ https://ritik98.github.io/mobileReorderFlexbox/
 
 1. First download the code or clone the repository.
 2. Run the html file by double clicking on it.
-3. you will able to see the result on browser.
+3. You will able to see the result on browser.
